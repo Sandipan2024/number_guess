@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgba(43, 177, 177, 0.816);
+}
+h1 {
+  color: white;
+  text-shadow: white;
+  padding: 8px;
+  text-align: center;
+  font-family: cursive;
+}
+label {
+  color: white;
+}
+.box{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  padding: 25px;
+  margin: 15px;
+  font-family: Helvetica;
+  font-weight: 700;
+  font-size: larger;
+}
+
+.hint {
+  text-align: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  font-size: x-large;
+  font-weight: bolder;
+}
